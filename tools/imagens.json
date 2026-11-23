@@ -1,0 +1,379 @@
+{
+ "hotel-casa-gramado-caes": {
+  "larguras": [
+   480,
+   960,
+   1600
+  ],
+  "proporcao": [
+   1600,
+   1200
+  ]
+ },
+ "piscina-gramado-caes": {
+  "larguras": [
+   480,
+   960,
+   1600
+  ],
+  "proporcao": [
+   1600,
+   1200
+  ]
+ },
+ "piscina-caes-ao-sol": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1440
+  ]
+ },
+ "deck-piscina-caes": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1440
+  ]
+ },
+ "border-collie-piscina": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1440
+  ]
+ },
+ "shiba-beira-piscina": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1440
+  ]
+ },
+ "caes-brincando-arvore": {
+  "larguras": [
+   480,
+   960,
+   1600
+  ],
+  "proporcao": [
+   1920,
+   1440
+  ]
+ },
+ "golden-amigos-bola": {
+  "larguras": [
+   480,
+   960,
+   1600
+  ],
+  "proporcao": [
+   1600,
+   1200
+  ]
+ },
+ "shibas-brincando-gramado": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1440
+  ]
+ },
+ "caes-brincando-gramado": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1440
+  ]
+ },
+ "caes-socializando-gramado": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1440
+  ]
+ },
+ "shiba-varanda": {
+  "larguras": [
+   480,
+   960,
+   1600
+  ],
+  "proporcao": [
+   1920,
+   1440
+  ]
+ },
+ "gramado-vertical": {
+  "larguras": [
+   480,
+   738
+  ],
+  "proporcao": [
+   738,
+   1500
+  ]
+ },
+ "retrato-shiba-preto": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1440
+  ]
+ },
+ "retrato-shiba-caramelo": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1440
+  ]
+ },
+ "retrato-dois-goldens": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1440
+  ]
+ },
+ "retrato-husky": {
+  "larguras": [
+   480,
+   960,
+   1200
+  ],
+  "proporcao": [
+   1200,
+   1200
+  ]
+ },
+ "retrato-border-collie": {
+  "larguras": [
+   476
+  ],
+  "proporcao": [
+   476,
+   784
+  ]
+ },
+ "lareira-maltes": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1440
+  ]
+ },
+ "aconchego-manta": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1440
+  ]
+ },
+ "lareira-labradores": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1440
+  ]
+ },
+ "aconchego-sofa": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1440
+  ]
+ },
+ "aconchego-cavalier": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1440
+  ]
+ },
+ "daycare-playground": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1440
+  ]
+ },
+ "daycare-playground-feliz": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1440
+  ]
+ },
+ "daycare-buldogues": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1440
+  ]
+ },
+ "daycare-beagle-buldogue": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1440
+  ]
+ },
+ "daycare-carinho-equipe": {
+  "larguras": [
+   480,
+   960,
+   1200
+  ],
+  "proporcao": [
+   1200,
+   1198
+  ]
+ },
+ "daycare-bandana": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1440
+  ]
+ },
+ "daycare-hidratacao-1": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1800
+  ]
+ },
+ "daycare-hidratacao-2": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1800
+  ]
+ },
+ "daycare-hidratacao-3": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1800
+  ]
+ },
+ "daycare-cineminha": {
+  "larguras": [
+   480,
+   960,
+   1440
+  ],
+  "proporcao": [
+   1440,
+   1440
+  ]
+ },
+ "andre-com-caes": {
+  "larguras": [
+   480,
+   960,
+   1280
+  ],
+  "proporcao": [
+   1280,
+   854
+  ]
+ },
+ "logo": {
+  "proporcao": [
+   440,
+   221
+  ]
+ }
+}
